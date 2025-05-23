@@ -32,6 +32,9 @@ ninja.data = [{
           section: "News",},{id: "news-siggraph-2025-our-paper-titled-model-see-model-do-speech-driven-facial-animation-with-style-control-was-accepted-for-siggraph-2025-we-present-an-example-based-diffusion-model-that-generates-stylistic-3d-facial-animations-the-generated-animations-are-lip-synced-to-a-provided-audio-track-and-adhere-to-the-style-delivery-of-the-example-animation-our-quantitative-experiments-and-user-studies-show-improved-style-adherence-compared-to-past-methods-that-used-contrastive-methods-for-learning-style-more-details-in-the-project-page",
           title: 'SIGGRAPH 2025: Our paper titled Model See Model Do: Speech-Driven Facial Animation with...',
           description: "",
+          section: "News",},{id: "news-we-published-a-new-post-in-ubisoft-la-forge-s-blog-showcasing-the-work-on-the-paper-mosar-monocular-semi-supervised-model-for-avatar-reconstruction-using-differentiable-shading",
+          title: 'We published a new post in Ubisoft La Forge’s blog, showcasing the work...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
