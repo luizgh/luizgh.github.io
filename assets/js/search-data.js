@@ -35,7 +35,7 @@ ninja.data = [{
           section: "News",},{id: "news-we-published-a-new-post-in-ubisoft-la-forge-s-blog-showcasing-the-work-on-the-paper-mosar-monocular-semi-supervised-model-for-avatar-reconstruction-using-differentiable-shading",
           title: 'We published a new post in Ubisoft La Forge’s blog, showcasing the work...',
           description: "",
-          section: "News",},{id: "news-iccv-2025-our-paper-titled-serep-semantic-facial-expression-representation-for-robust-in-the-wild-capture-and-retargeting-was-accepted-for-iccv-2025-we-propose-a-novel-method-for-monocular-face-expression-capture-and-re-targeting-we-first-train-a-model-that-disentangles-identity-and-expression-in-3d-face-meshes-at-the-semantic-level-we-then-train-a-model-to-predict-the-expression-from-monocular-images-using-a-semi-supervised-scheme-using-real-and-synthetic-data-notably-we-do-not-rely-on-manually-intensive-3d-modeling-for-the-synthetic-data-but-rather-use-domain-adaptation-to-bridge-the-gap-between-domains-more-details-in-the-project-page",
+          section: "News",},{id: "news-iccv-2025-our-paper-titled-serep-semantic-facial-expression-representation-for-robust-in-the-wild-capture-and-retargeting-was-accepted-for-iccv-2025-we-propose-a-novel-method-for-monocular-face-expression-capture-and-re-targeting-the-model-is-capable-of-accurately-capturing-geometric-expression-deformations-and-is-more-robust-to-non-frontal-views-than-other-methods-we-are-also-releasing-multirex-the-first-benchmark-for-geometric-evaluation-of-expression-capture-more-details-in-the-project-page",
           title: 'ICCV 2025: Our paper titled SEREP: Semantic Facial Expression Representation for Robust In-the-Wild...',
           description: "",
           section: "News",},{
